@@ -1,5 +1,7 @@
 👋🏽 Hi, I'm Banele Mlalazi (Nellie)
+
 AI Systems Architect | MSc Applied AI & Data Analytics
+
 I build intelligent, ethical systems that combine machine learning, automation, and user-centered design to solve real-world problems.
 
 🧠 Core Focus Areas
