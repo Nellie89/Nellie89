@@ -40,6 +40,7 @@ Secure Web3 wallet with staking, gas-optimised smart contracts, and real-time va
 🎓 Personal Development
 
 MSc in Applied AI & Data Analytics
+
 Google Cloud: Machine Learning & Data Analytics (In Progress)
 
 📂 Let’s Connect
