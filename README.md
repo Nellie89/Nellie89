@@ -1,25 +1,44 @@
-# 👋 Hi, I'm Banele Mlalazi but you can call me Nellie!
+👋🏽 Hi, I'm Banele Mlalazi (Nellie)
+AI Systems Architect | MSc Applied AI & Data Analytics
+I build intelligent, ethical systems that combine machine learning, automation, and user-centered design to solve real-world problems.
 
-I'm currently completing my MSc in Artificial Intelligence and Data Analytics, with a strong interest in using machine learning and data storytelling to solve real-world problems. 
+🧠 Core Focus Areas
+🤖 Prompt Engineering (GPT-4, LLMs, Creative AI Systems)
 
-🧠 **Core Interests**:  
-- Machine Learning & Predictive Modelling  
-- Business Intelligence (Power BI, SQL)  
-- Cloud Tools (GCP)
-- Data Analytics (VS Code, R, SAS) 
-- Ethical & Explainable AI  
+📊 Data Analytics & Business Intelligence (Power BI, SQL, Python, R)
 
-🎓 **Current Projects**:
-- Customer Churn Prediction (Python, Scikit-learn)
-- Power BI Sales Dashboard (Microsoft Certification Prep)
-- Fraud Detection with Logistic Regression
+🔐 Web3 & Digital Rights (Smart Contracts, Blockchain, Tokenomics)
 
-📈 I'm actively building my portfolio and looking for data-related opportunities to learn, grow, and contribute.
+🛠️ No-Code & Workflow Automation (n8n, Make.com, Airtable)
 
-💼 **Certifications**:
-- Google Cloud: Machine Learning Specialisation *(in progress)*  
-- Microsoft: Power BI Data Analyst Associate *(in progress)*
-- Google Cloud: Data Analytics *(in progress)*  
+🎨 UX Architecture & Visual Systems (Figma, Tailwind, Responsive UI)
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/banelemlalazi)!
+🧭 Ethical & Explainable AI | AI Governance
 
+🚀 Featured Projects
+🛡️ CIVRA: AI Ethics & Identity Protection
+Government-grade system securing biometric likeness and creator consent with tools like Pattern Sentinel AI and SafeWeb Companion.
+
+🧵 Fashion Enterprise AI Platform
+Creative automation ecosystem featuring high-fidelity mockups, learning engines, tokenized engagement, and Web3 access tiers.
+
+🌀 QUANTA: Prompt Multiverse Interface
+Figma-based interactive prototype that visualizes creative prompt variation across multiverse-style branching paths and tones.
+
+🔮Ghostwriter Mirror: Tone Rewrite Assistant
+Real-time tone modulation tool for rewriting messages across 5 emotional styles, with a sleek UI and GPT-4-ready prompt logic.
+
+⚙️ LeadScorer Pro
+AI-powered automation platform using n8n to qualify and route leads in real time with Slack + Airtable integrations.
+
+🔐 DeFi Wallet
+Secure Web3 wallet with staking, gas-optimized smart contracts, and real-time valuation tracking.
+
+🎓 Personal Development
+
+MSc in Applied AI & Data Analytics
+Google Cloud: Machine Learning & Data Analytics (In Progress)
+
+📂 Let’s Connect
+🔗 LinkedIn
+🗂️ Portfolio on Notion
