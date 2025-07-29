@@ -41,6 +41,6 @@ Secure Web3 wallet with staking, gas-optimised smart contracts, and real-time va
 
 MSc in Applied AI & Data Analytics
 
-Google Cloud: Machine Learning & Data Analytics (In Progress)
+Microsoft Certified: Azure AI Engineer Associate
 
 📂 Let’s Connect
